@@ -1,5 +1,6 @@
+// Your web app's Firebase configuration
 var firebaseConfig = {
-  //enter your config here
+  // firebase config details goes here....
 };
 
 export default firebaseConfig;
